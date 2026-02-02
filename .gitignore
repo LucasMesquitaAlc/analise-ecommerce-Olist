@@ -1,3 +1,5 @@
 __pycache__/
 
-Dados/pre_processamento/*
+Dados/bruto/*
+
+Dados/db/*.db
