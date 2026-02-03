@@ -4,6 +4,7 @@
 O projeto busca extrair e analisar os dados de venda do comércio digital da empresa brasileira Olist
 
 ## Perguntas Que Buscamos Responder
+- Quais áreas do país mais fizeram pedidos?
 - Qual categoria de produtos gerou a maior receita?
 - Quais categorias vendem mais?
 - O número de vendas aumentou com o tempo?
