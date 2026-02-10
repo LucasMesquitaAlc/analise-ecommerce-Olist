@@ -31,7 +31,9 @@ Em geral, manteve-se estável, entre 140-170. <br>Entre as 4 maiores categorias,
 ![AOV por categoria](graficos/grafico5.png)
 
 - **O quão preciso são as estimativas de entrega?**  
-Cerca de 93,3% das entregas chegou até o tempo estimado, dos quais 63,4% chegaram bem adiantados (chegou 10 ou mais dias antes da data estimada)
+Cerca de 93,3% das entregas chegou até o tempo estimado, dos quais 63,4% chegaram bem adiantados (chegou 10 ou mais dias antes da data estimada) <br>
+É importante notar que a categoria "inconsistente" descrevem os pedidos em que a estimativa de entrega passavam de 36 dias a partir do dia que foi recebido <br>
+(A escolha de 36 dias para a categorização de inconsistência se dá pois 99% dos pedidos foram entregues até 36 dias antes da estimativa)
 ![Entregas](graficos/grafico6.png)
 
 ## Dataset
