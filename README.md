@@ -14,12 +14,25 @@ O projeto busca extrair e analisar os dados de venda do comércio digital da emp
 ## Respostas
 - **Áreas do país mais fizeram pedidos?**  
 A região Sudeste domina as vendas (65,2%), em especial o estado de SP (41,2%)
-![Vendas por região](imagens/grafico1.png)
+![Vendas por região](graficos/grafico1.png)
 
 - **Qual categoria gerou a maior receita? e qual vendeu mais em quantidade?**  
-A categoria de 'beleza_saude' foi a que mais gerou receita, com 1,4 milhão de reais.
+A categoria de 'beleza_saude' foi a que mais gerou receita, com 1,4 milhão de reais. <br>
 E a categoria 'casa_mesa_banho" foi a que mais teve pedidos, com 10.160 pedidos.
-![Categoria com mais vendas](imagens/grafico2.png)
+![Categoria com mais vendas](graficos/grafico2.png)
+
+- **A quantidade de vendas aumentou com o tempo?**  
+Sim! Em especial, próximo à Black Friday de 2017
+![Vendas](graficos/grafico3.png)
+
+- **Como o AOV mudou com o tempo?**  
+Em geral, manteve-se estável, entre 140-170. <br>Entre as 4 maiores categorias, o mesmo padrão estável apareceu, com exceção de 'relogios_presente', que teve um pico entre 10/16 - 01/17
+![AOV](graficos/grafico4.png)
+![AOV por categoria](graficos/grafico5.png)
+
+- **O quão preciso são as estimativas de entrega?**  
+Cerca de 93,3% das entregas chegou até o tempo estimado, dos quais 63,4% chegaram bem adiantados (chegou 10 ou mais dias antes da data estimada)
+![Entregas](graficos/grafico6.png)
 
 ## Dataset
 Este projeto usa de base o dataset: **Brazilian E-Commerce Public Dataset by Olist**, do Kaggle
